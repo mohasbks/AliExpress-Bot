@@ -1,1 +1,1 @@
-worker: python aliexpress_telegram_bot.py
+worker: python final_bot.py
